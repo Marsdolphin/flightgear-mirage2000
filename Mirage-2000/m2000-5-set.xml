@@ -83,7 +83,22 @@
       <preview>
         <type>exterior</type>
         <splash type="bool">true</splash>
+        <path>Splashes/splash-06.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
         <path>Splashes/splash-08.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Splashes/splash-10.png</path>
+      </preview>
+      <preview>
+        <type>exterior</type>
+        <splash type="bool">true</splash>
+        <path>Splashes/splash-12.png</path>
       </preview>
     </previews>
 
